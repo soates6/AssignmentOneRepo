@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\base",
     "\\studybud"
   ],
-  "SelectedNode": "\\studybud\\settings.py",
+  "SelectedNode": "\\studybud\\urls.py",
   "PreviewInSolutionExplorer": false
 }
