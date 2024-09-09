@@ -5,8 +5,9 @@
     "\\base\\templates",
     "\\base\\templates\\base",
     "\\studybud",
-    "\\studybud\\__pycache__"
+    "\\studybud\\__pycache__",
+    "\\templates"
   ],
-  "SelectedNode": "\\studybud\\settings.py",
+  "SelectedNode": "\\base\\views.py",
   "PreviewInSolutionExplorer": false
 }
