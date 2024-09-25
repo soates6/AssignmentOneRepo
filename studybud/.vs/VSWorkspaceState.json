@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\base",
+    "\\base\\api",
     "\\base\\templates",
     "\\base\\templates\\base",
     "\\base\\__pycache__",
-    "\\static",
     "\\static\\images",
     "\\static\\styles",
     "\\studybud",
-    "\\studybud\\__pycache__",
-    "\\templates"
+    "\\studybud\\__pycache__"
   ],
-  "SelectedNode": "\\base\\views.py",
+  "SelectedNode": "\\studybud\\settings.py",
   "PreviewInSolutionExplorer": false
 }
