@@ -4,6 +4,7 @@
     "\\base",
     "\\base\\templates",
     "\\base\\templates\\base",
+    "\\base\\__pycache__",
     "\\static",
     "\\static\\images",
     "\\static\\styles",
