@@ -11,6 +11,6 @@
     "\\studybud\\__pycache__",
     "\\templates"
   ],
-  "SelectedNode": "\\base\\templates\\base\\room_form.html",
+  "SelectedNode": "\\base\\views.py",
   "PreviewInSolutionExplorer": false
 }
