@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\base",
-    "\\base\\api",
+    "\\base\\migrations",
     "\\base\\templates",
     "\\base\\templates\\base",
-    "\\base\\__pycache__",
+    "\\static",
+    "\\static\\images",
     "\\studybud",
-    "\\studybud\\__pycache__"
+    "\\studybud\\__pycache__",
+    "\\templates"
   ],
-  "SelectedNode": "\\studybud\\settings.py",
+  "SelectedNode": "\\base\\templates\\base\\room_form.html",
   "PreviewInSolutionExplorer": false
 }
