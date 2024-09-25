@@ -6,8 +6,6 @@
     "\\base\\templates",
     "\\base\\templates\\base",
     "\\base\\__pycache__",
-    "\\static\\images",
-    "\\static\\styles",
     "\\studybud",
     "\\studybud\\__pycache__"
   ],
